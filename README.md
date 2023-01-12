@@ -23,11 +23,11 @@ https://github.com/avrilmauro/avrilmauro.github.io/blob/main/employee_attrition_
 ❓ **Question**: how accurate is Emozo’s facial coding technology in measuring a person’s unconscious emotional response?
 
 ### 🗓️ Project Timeline
-| Week(s)           | Goal                                                                             | Deliverable                        |
+| Week(s)(2022)     | Goal                                                                             | Deliverable                        |
 |-------------------|----------------------------------------------------------------------------------|------------------------------------|
-| 10/03/22-10/10/22 | Client Introduction and Proposal Draft                                           |  N/A                               |
-| 10/10/22-10/24/22 | Literature Review (Research and Writing)                                         | Literature Review                  |
-| 10/24/22-11/14/22 | EMOZO Interface Onboarding, Experiment Design, Survey Design, Subject Collection | Project Proposal                   |
-| 11/14/22-11/21/22 | Experiment Period (Data Collection)                                              | Demographic Data                   |
-| 11/21/22-11/28/22 | Data Analysis + Visualizations                                                   | Primary Analysis Variance Analysis |
-| 11/28/22-12/05/22 | Client Presentation (Results and Recommendations)                                | Slidedeck                          |
+| 10/03 - 10/10 | Client Introduction and Proposal Draft                                           |  N/A                               |
+| 10/10 - 10/24 | Literature Review (Research and Writing)                                         | Literature Review                  |
+| 10/24 - 11/14 | EMOZO Interface Onboarding, Experiment Design, Survey Design                     | Project Proposal                   |
+| 11/14 - 11/21 | Experiment Period (Data Collection)                                              | Demographic Data                   |
+| 11/21 - 11/28 | Data Analysis + Visualizations                                                   | Primary Analysis & Variance Analysis |
+| 11/28 - 12/05 | Client Presentation (Results and Recommendations)                                | Slidedeck                          |
