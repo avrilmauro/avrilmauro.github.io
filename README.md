@@ -32,4 +32,3 @@ https://github.com/avrilmauro/avrilmauro.github.io/blob/main/employee_attrition_
 | 11/21 - 11/28 | Data Analysis + Visualizations                                                   | [Primary Analysis](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_primary_data_analysis.ipynb) & [Variance Analysis](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_variance_analysis.ipynb) |
 | 11/28 - 12/05 | Client Presentation (Results and Recommendations)                                | [Slidedeck](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/Emozo%20Client%20Presentation.pdf)                            |
 
-**Literature Review**: 
