@@ -23,11 +23,13 @@ https://github.com/avrilmauro/avrilmauro.github.io/blob/main/employee_attrition_
 ❓ **Question**: how accurate is Emozo’s facial coding technology in measuring a person’s unconscious emotional response?
 
 ### 🗓️ Project Timeline
-| Week(s)(2022)     | Goal                                                                             | Deliverable                        |
-|-------------------|----------------------------------------------------------------------------------|------------------------------------|
-| 10/03 - 10/10 | Client Introduction and Proposal Draft                                           |  N/A                               |
-| 10/10 - 10/24 | Literature Review (Research and Writing)                                         | Literature Review                  |
-| 10/24 - 11/14 | EMOZO Interface Onboarding, Experiment Design, Survey Design                     | Project Proposal                   |
-| 11/14 - 11/21 | Experiment Period (Data Collection)                                              | Demographic Data                   |
-| 11/21 - 11/28 | Data Analysis + Visualizations                                                   | Primary Analysis & Variance Analysis |
-| 11/28 - 12/05 | Client Presentation (Results and Recommendations)                                | Slidedeck                          |
+| Week(s)(2022) | Goal                                                                             | Deliverable                          |
+|---------------|----------------------------------------------------------------------------------|--------------------------------------|
+| 10/03 - 10/10 | Client Introduction and Proposal Draft                                           | N/A                                  |
+| 10/10 - 10/24 | Literature Review (Research and Writing)                                         | [Literature Review](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_literature_review_facialcoding.pdf)                    |
+| 10/24 - 11/14 | EMOZO Interface Onboarding, Experiment Design, Survey Design                     | [Project Proposal](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_project_proposal.docx.pdf)                     |
+| 11/14 - 11/21 | Experiment Period (Data Collection)                                              | [Demographic Data](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_demographic_visualizations.ipynb)                     |
+| 11/21 - 11/28 | Data Analysis + Visualizations                                                   | [Primary Analysis](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_primary_data_analysis.ipynb) & [Variance Analysis](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/emozo_variance_analysis.ipynb) |
+| 11/28 - 12/05 | Client Presentation (Results and Recommendations)                                | [Slidedeck](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/Emozo%20Client%20Presentation.pdf)                            |
+
+**Literature Review**: 
