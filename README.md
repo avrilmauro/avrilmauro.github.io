@@ -16,10 +16,18 @@ https://github.com/avrilmauro/avrilmauro.github.io/blob/main/employee_attrition_
 - 💡 *Outcome*: false negatives were slightly decreased, but still quite high in all models; however, the Random Forest classifier had the best scores overall, making it appropriate to analyze `feature importance` for.
 
 ✅ **Results**: the top three features based on mean decreases in gini were overtime, age, and monthly income; after running the correlations of these features to attrition, we found that **an employee who is younger in age, earns a lower monthly income, and works overtime is likely to leave their company.**
-   
 
 ## EMOZO Facial Coding Validation Project 🎭👩🏻‍💻
-- Overview
-- Description goes here
+👤 **Client**: [EMOZO LABS](https://www.emozo.ai/)
 
+❓ **Question**: how accurate is Emozo’s facial coding technology in measuring a person’s unconscious emotional response?
 
+### 🗓️ Project Timeline
+| Week(s)           | Goal                                                                             | Deliverable                        |
+|-------------------|----------------------------------------------------------------------------------|------------------------------------|
+| 10/03/22-10/10/22 | Client Introduction and Proposal Draft                                           |  N/A                               |
+| 10/10/22-10/24/22 | Literature Review (Research and Writing)                                         | Literature Review                  |
+| 10/24/22-11/14/22 | EMOZO Interface Onboarding, Experiment Design, Survey Design, Subject Collection | Project Proposal                   |
+| 11/14/22-11/21/22 | Experiment Period (Data Collection)                                              | Demographic Data                   |
+| 11/21/22-11/28/22 | Data Analysis + Visualizations                                                   | Primary Analysis Variance Analysis |
+| 11/28/22-12/05/22 | Client Presentation (Results and Recommendations)                                | Slidedeck                          |
