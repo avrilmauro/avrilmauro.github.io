@@ -7,8 +7,4 @@
 - Overview
 - Description goes here
 
-## Rideshare Predictive Analysis Project 🚘💰
-- Overview
 
-## Power BI Dashboard
-- In progress...
