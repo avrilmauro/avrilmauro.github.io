@@ -11,8 +11,8 @@
 🛠️ **Method**: create a convenient and interactive dashboard that gives the user freedom to explore stock performance through different time frames and industries of their choice 
 - utilized libraries such as Plotly, Dash, and Dash Bootstrap Components
 - displayed bullet charts, candlestick graphs, accordian tables, and bullet charts with time and industry controls
-- predicted industries such as Healthcare and Technology to flourish over time, while others like Real Estate to fluctuate with market recessions
-- resulted in a multitude of industry-specific conclusions as well as see the impact of global events like COVID-19 on individual stocks over time
+- predicted industries such as Healthcare and Technology to flourish over time, while Real Estate may fluctuate with market recessions
+- resulted in a multitude of industry-specific conclusions and visibility into the impact of COVID-19
 
 
 ## Employee Attrition Machine Learning Project 🏃💼
