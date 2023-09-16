@@ -1,4 +1,19 @@
 # Personal Portfolio 📚
+## S&P 500 Dashboard 📈💵
+[link]
+❓ **Question**: how can we make a tool to help beginners learn about the stock market?
+
+🗃️ **Datasets**: 
+- [S&P 500 Historical Data](https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data)
+- [S&P 500 Stock Price with Financial Statement](https://www.kaggle.com/datasets/hanseopark/sp-500-stocks-value-with-financial-statement)
+- [Top Tech Companies Stock Price Dataset](https://www.kaggle.com/datasets/tomasmantero/top-tech-companies-stock-price?select=List+of+SP+500+companies.csv)
+
+🛠️ **Method**: create a convenient and interactive dashboard that gives the user freedom to explore stock performance through different time frames and industries of their choice 
+- utilized libraries such as Plotly, Dash, and Dash Bootstrap Components
+- displayed bullet charts, candlestick graphs, accordian tables, and bullet charts with time and industry controls
+- predicted industries such as Healthcare and Technology to flourish over time, while others like Real Estate to fluctuate with market recessions
+- resulted in a multitude of industry-specific conclusions as well as see the impact of global events like COVID-19 on individual stocks over time
+
 
 ## Employee Attrition Machine Learning Project 🏃💼
 https://github.com/avrilmauro/avrilmauro.github.io/blob/main/employee_attrition_project.ipynb
