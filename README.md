@@ -1,6 +1,6 @@
 # Personal Portfolio 📚
 ## S&P 500 Dashboard 📈💵
-[link]
+https://github.com/avrilmauro/avrilmauro.github.io/tree/70366a296bcbac34b6991364af99aad2ddb9062c/S%26P%20500%20Dashboard%20Python%20Files%20and%20Datasets
 
 ❓ **Question**: how can we make a tool to help beginners learn about the stock market?
 
