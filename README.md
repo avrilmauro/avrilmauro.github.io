@@ -2,7 +2,7 @@
 ## Spotify Recommendation System 🎵💡
 https://github.com/avrilmauro/avrilmauro.github.io/tree/main/Spotify%20Recommendation%20System
 
-❓ **Question**: how can we recommend songs to a user who likes a certain artist?
+❓ **Question**: how can we recommend songs to a user who likes a certain artist or song?
 
 🗃️ **Datasets**: 
 - [Spotify Data](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/Spotify%20Recommendation%20System/spotify.csv)
