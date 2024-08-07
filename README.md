@@ -8,9 +8,9 @@ https://github.com/avrilmauro/avrilmauro.github.io/tree/main/Spotify%20Recommend
 - [Spotify Data](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/Spotify%20Recommendation%20System/spotify.csv)
 
 🛠️ **Method**: 
-- Build a Content-Based Filtering algorithm, inspired by Netflix which personalizes recommendations for each user based on the content they interact with on the platform
-- Create a similarity score using pairwise cosine similarity of valence, tempo, popularity, and genre (encoded)
-- Assemble songs and scores in a dataframe containing all unique pairs of songs in the sample and visualize the relationships in a graph model using node.js
+- Built a Content-Based Filtering algorithm, inspired by Netflix which personalizes recommendations for each user based on the content they interact with on the platform
+- Created a similarity score using pairwise cosine similarity of valence, tempo, popularity, and genre (encoded)
+- Assembled songs and scores in a dataframe containing all unique pairs of songs in the sample and visualize the relationships in a graph model using node.js
 
 <img src="https://i.ibb.co/DLXT4r2/DS4300-HW5-Spotify-Recommendation-System-PPT.jpg">
 
@@ -25,10 +25,10 @@ https://github.com/avrilmauro/avrilmauro.github.io/tree/70366a296bcbac34b6991364
 - [Top Tech Companies Stock Price Dataset](https://www.kaggle.com/datasets/tomasmantero/top-tech-companies-stock-price?select=List+of+SP+500+companies.csv)
 
 🛠️ **Method**: create a convenient and interactive dashboard that gives the user freedom to explore stock performance through different time frames and industries of their choice 
-- utilized libraries such as Plotly, Dash, and Dash Bootstrap Components
-- displayed bullet charts, candlestick graphs, accordian tables, and bullet charts with time and industry controls
-- predicted industries such as Healthcare and Technology to flourish over time, while Real Estate may fluctuate with market recessions
-- resulted in a multitude of industry-specific conclusions and visibility into the impact of COVID-19
+- Utilized libraries such as Plotly, Dash, and Dash Bootstrap Components
+- Displayed bullet charts, candlestick graphs, accordian tables, and bullet charts with time and industry controls
+- Predicted industries such as Healthcare and Technology to flourish over time, while Real Estate may fluctuate with market recessions
+- Produced a multitude of industry-specific conclusions and visibility into the impact of COVID-19
 
 <img src="https://i.ibb.co/S6RckBb/S-P-500-Dashboard-Snapshot-1.png">
 <img src="https://i.ibb.co/FBLrLG0/S-P-500-Dashboard-Snapshot-2.png">
