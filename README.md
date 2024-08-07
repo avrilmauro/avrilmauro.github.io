@@ -1,11 +1,11 @@
 # Personal Portfolio 📚
 ## Spotify Recommendation System 🎵💡
-https://github.com/avrilmauro/avrilmauro.github.io/tree/70366a296bcbac34b6991364af99aad2ddb9062c/S%26P%20500%20Dashboard%20Python%20Files%20and%20Datasets
+https://github.com/avrilmauro/avrilmauro.github.io/tree/main/Spotify%20Recommendation%20System
 
 ❓ **Question**: how can we recommend songs to a user who likes a certain artist?
 
 🗃️ **Datasets**: 
-- [Spotify Data](https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data)
+- [Spotify Data](https://github.com/avrilmauro/avrilmauro.github.io/blob/main/Spotify%20Recommendation%20System/spotify.csv)
 
 🛠️ **Method**: 
 - Build a Content-Based Filtering algorithm, inspired by Netflix which personalizes recommendations for each user based on the content they interact with on the platform
